@@ -1,7 +1,7 @@
 # **MMED1054 - Git & GitHub - HW1**
 
 [Team Member #1]: #
-## **Sandra Paola**
+## **Sandra Paola Neira**
 
 ### **About Me**
 
