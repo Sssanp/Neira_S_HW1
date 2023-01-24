@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(88, 76, 93);
+    color: white;
+    font-family: verdana;
+}
+  
+ul {
+    font-size: 14px;
+}
+
+#cocoImage {
+    width: 250px;
+    height: 250px;
+    position: relative;
+    right: -80px;
+}
