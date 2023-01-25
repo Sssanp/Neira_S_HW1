@@ -25,9 +25,11 @@ li {
     height: 500px;
 }
 
-#cocoImage {
-    width: 250px;
-    height: 250px;
+.cocoImages {
+    width: 350px;
+    height: 350px;
     position: relative;
     right: -80px;
+    padding-right: 5px;
+    border-radius: 15px;
 }

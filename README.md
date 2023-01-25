@@ -15,7 +15,7 @@
 
 #### Additionally, other hobbies I have is read books online, watch TikTok SO MUCH that I even had to put a time limit on my phone, play online games, especially horror ones, and listen to music (pop, phonk, R&B, reggaeton, classic) it depends on the mood.
 
-#### Lastly, I love animals, but my parents never let me have a pet, now that I live with my uncles here in Canada they have a kitten called Gaty, she is very cute and good company even though she has already destroyed some of my clothes and beauty blenders
+#### Lastly, I love animals, but my parents never let me have a pet, now that I live with my uncles here in Canada they have a kitten called Gaty, she is very cute and good company even though she has already destroyed some of my clothes and beauty blenders.
 
 ### **Why IDP3?**
 
@@ -48,12 +48,12 @@
 
 * I also enjoy developing Discord bots (for tracking XP, retrieving user information, calculating statistics, etc.) and learning new APIs and incorporating them into my personal projects. I mainly use JavaScript but I also have experience with Java, C#, and C/C++ from my time in the CPA3 program.
 
-* Some of my other hobbies include: 3D modelling, watching TV shows and movies (currently watching The Last of Us and excited for the upcoming Scream VI movie), gaming (my favourite games are the Tomb Raider Trilogy, Control, Wizard101, and Pirate101), and travelling.
+* Some of my other hobbies include: 3D modelling, watching TV shows and movies (currently watching The Last of Us and excited for the upcoming Scream VI movie), reading books, gaming (my favourite games are the Tomb Raider Trilogy, Control, Wizard101, and Pirate101), and travelling.
 
 ### **Pets**
 * I have a dog and her name is Coco. She's 10 years old. She's a rescue and was adopted in 2015. She's a mix between the pug, miniature pinscher, and dachshund.
     * Here is a picture of her:
 
-        > ![My dog, Coco](img/Coco.jpg)
+        > ![My dog, Coco, laying down in the car](img/Coco.jpg)
 
 ---
