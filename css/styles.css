@@ -16,6 +16,10 @@ p, ul {
     font-size: 15px;
 }
 
+li {
+    margin: 15px 0;
+}
+
 #gatyImage {
     width: 500px;
     height: 500px;
