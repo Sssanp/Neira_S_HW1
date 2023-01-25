@@ -5,7 +5,7 @@
 
 ### **About Me**
 
-#### My name is Sandra but I prefer to be called San or Paola which is my second name, I feel is easier and faster to say. I'm 18 years old and I come from Cali known as the branch of heaven in Colombia and in the world, but please don't ask me if I know how to dance salsa.
+#### Hello! My name is Sandra but I prefer to be called San or Paola which is my second name, I feel is easier and faster to say. I'm 18 years old and I come from Cali known as the branch of heaven in Colombia and in the world, but please don't ask me if I know how to dance salsa.
 
 #### To get started, I'm a friendly person even though I don't seem like it because I'm a little shy and nervous when it comes to talking.
 
